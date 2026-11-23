@@ -26,4 +26,4 @@ These are early-stage notes and may be revised as my understanding of the proble
 ## Author
 
 **Vatsal Agarwala**  
-International School of Luxembourg
+
